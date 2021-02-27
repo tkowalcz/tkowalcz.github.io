@@ -18,4 +18,4 @@ we built log4j2 appender, that has following main advantages:
 1. We also provide a no-dependency version of log4j2 appender.
 1. Includes in-house implementation of protobuf wire format for Loki to reduce dependencies and improve performance
 
-Check it out on [GitHub](https://github.com/tkowalcz/tjahzi).
+It is currently used (that I know of) to ship logs from tens of servers at about 10GB of logs per day. Check it out on [GitHub](https://github.com/tkowalcz/tjahzi).
